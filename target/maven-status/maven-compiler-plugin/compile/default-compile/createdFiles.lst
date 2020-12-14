@@ -1,0 +1,10 @@
+com\example\WordCount\HelloResource.class
+com\example\WordCount\MostFrequentResource.class
+com\example\main\MainClass.class
+com\example\WordCount\WordCountApplication.class
+com\example\main\WordAnalyzer.class
+com\example\main\WordsElement.class
+com\example\main\WordFrequency.class
+com\example\main\WordFrequencyAnalyzer.class
+com\example\WordCount\CalculateService.class
+com\example\WordCount\CalculateResource.class
